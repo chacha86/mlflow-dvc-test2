@@ -1,0 +1,15 @@
+artifact_uri: file:///work/dvc-test2/mlruns/0/26a68b89442e4530ab613773d703b5d0/artifacts
+end_time: 1667817286270
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26a68b89442e4530ab613773d703b5d0
+run_name: thundering-mole-297
+run_uuid: 26a68b89442e4530ab613773d703b5d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667817286266
+status: 3
+tags: []
+user_id: spark
